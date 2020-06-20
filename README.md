@@ -1,6 +1,6 @@
 # Pikachu Interpreter
 
-This is an interpreter for Pikachu written in python.
+This is a rework of an interpreter for Pikachu written in python.
 
 The definition of the esoteric programming language named 'pikachu' can be found [here](http://trove42.com/introducing-pikachu-programming-language/)
 
